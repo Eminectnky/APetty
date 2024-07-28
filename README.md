@@ -36,6 +36,8 @@
 <img src="https://github.com/user-attachments/assets/d42722bb-a105-4efb-85b5-8b4534f1afc7" width="185" height="400" alt="WhatsApp Image 2024-07-29 at 00 54 52">
 <img src="https://github.com/user-attachments/assets/d159ad6f-85e9-457c-88b1-371a38b165bf" width="185" height="400" alt="WhatsApp Image 2024-07-29 at 00 56 50">
 
-
+Developed By:
+Emine ÇETİNKAYA, 
+Şeyma KAYACIK
 
 
